@@ -1,0 +1,4 @@
+SQL :
+https://www.w3schools.com/sql/default.asp
+RDMS:
+https://www.scaler.com/topics/dbms/relational-model-in-dbms/
